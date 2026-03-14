@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: 6554239636e4df047a577787222611e1
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -897,7 +897,7 @@ PlayerSettings:
   cloudProjectId: c918a843-6fb9-4348-a653-41e24bc4044d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: vw-client
   organizationId: ddayin82
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

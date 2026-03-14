@@ -1,1 +1,1 @@
-# unity6-vw-client
+# unity6-open-virtual-world

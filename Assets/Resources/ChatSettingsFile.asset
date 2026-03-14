@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8078fb5ca219c34ea80805fec36beae, type: 3}
   m_Name: ChatSettingsFile
   m_EditorClassIdentifier: Assembly-CSharp::Photon.Chat.DemoChat.ChatSettings
-  AppId: 
+  AppId: 9a55f944-0281-4e79-ae35-c7a7283d9d38
   WizardDone: 1

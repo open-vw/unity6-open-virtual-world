@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2842c418e3c0df64cb9e474aba57af53
+guid: 199be15ee65b8a74f863e38d995b3039
 labels:
 - FusionDefaultGlobal
 ScriptedImporter:
@@ -13,3 +13,10 @@ ScriptedImporter:
   PrefabOptions:
     UnloadPrefabOnReleasingLastInstance: 0
     UnloadUnusedPrefabsOnShutdown: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 272941
+  packageName: Simple FPS Multiplayer - Photon Fusion
+  packageVersion: 2.0.12
+  assetPath: Assets/Photon/Fusion/Resources/NetworkProjectConfig.fusion
+  uploadId: 765460
